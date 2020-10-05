@@ -1,1 +1,1 @@
-web: gunicorn tele--log-file -
+web: gunicorn tele --log-file -

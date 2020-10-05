@@ -1,1 +1,1 @@
-web: python tele.py
+web: gunicorn tele--log-file -
